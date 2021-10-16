@@ -1,5 +1,5 @@
 # Real Estate Analysis.
-This repostipry entails the analysis of housing and the prediction of housing prices in Washington state United States of America.
+This repositopry entails the analysis of housing and the prediction of housing prices in Washington state United States of America.
 # Description
 The main objective of the analysis was to under stand the factors affecting housing and there after predict the price of houses based on the same factors
 # User Requirements
