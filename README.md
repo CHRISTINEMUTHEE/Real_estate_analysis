@@ -5,7 +5,7 @@ The main objective of the analysis was to under stand the factors affecting hous
 # User Requirements
 You need Python and a jupyter notebook.
 # Set up Installations
-clone this project from:https://github.com/CHRISTINEMUTHEE/Real_estate_analysis.
+clone this project from:https://github.com/CHRISTINEMUTHEE/Real_estate_analysis.git.
 # Technologies used
 Python,Matploptly,Seaborn,Google collaboratory,Pandas and Numpy Libraries,Sklearn etc
 # Support and contact details
